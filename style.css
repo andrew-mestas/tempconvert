@@ -56,3 +56,14 @@ form{
 #result{
 	position: ;
 }
+
+@media (max-width: 767px) {
+	form{
+		top:72%;
+	}
+	#tempName{    
+	 	top: 14%;
+    	font-size: 54px;
+	}
+
+}
